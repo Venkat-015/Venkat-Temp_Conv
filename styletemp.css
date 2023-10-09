@@ -26,7 +26,9 @@ body{
 }
 .fa-solid{
     font-size: 30px;
-    margin-top: 33px;
+    margin-top: 42px;
+    margin-right:2px;
+    margin-left:4px;
     width: 30px;
 }
 .boxclass input{
