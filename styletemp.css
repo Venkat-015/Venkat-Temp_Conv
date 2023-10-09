@@ -51,13 +51,16 @@ body{
     box-shadow: 2px 2px 2px 2px black;
     margin-bottom: 12px;
 }
-@media (max-width : 1028px){
-    body{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        background-size:100%;
-        background-repeat:round;
-}
-}
+   @media (max-width: 1028px) {
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-image: url('cel fah image.jpg'); 
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+        }
+    }
+    
