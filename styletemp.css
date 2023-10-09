@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color:blanchedalmond;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.maindiv{
+    width: 350px;
+    border-radius: 15px;
+    background-color:transparent;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 5px 5px 5px 4px black;
+    
+}
+.fa-solid{
+    font-size: 30px;
+    margin-top: 33px;
+    width: 30px;
+}
+.boxclass input{
+    width: 100px;
+    height: 45px;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 20px;
+    background-color: oldlace;
+    box-shadow: 1px 1px 1px 1px black;
+
+}
+.boxclass h3{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    align-items: center;
+    text-align: center;
+    background-color:wheat;
+    box-shadow: 2px 2px 2px 2px black;
+    margin-bottom: 12px;
+}
